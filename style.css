@@ -1,0 +1,18 @@
+/* selector por etiqueta
+h1{
+    color:darkred;
+} */
+
+/* selector por clase
+.miClase{
+    color:darkred;
+} */
+
+/* selector por identificador */
+#miId{
+    color: darkred;
+}
+
+p{
+    color:aqua
+}
